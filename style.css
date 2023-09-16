@@ -1,0 +1,196 @@
+.body {
+
+    background-color: #252525;
+    color: rgb(255, 255, 255);
+    font-family: Roboto;
+    font-feature-settings: bold;
+    font-variation-settings: normal
+
+}
+
+.footer {
+
+    text-align: center;
+
+}
+
+.heading {
+
+    font-size: 500%;
+    margin-left: 4%;
+    margin-bottom: -1%;
+    margin-top: 1%;
+
+}
+
+.tagline {
+
+    font-size: 75%;
+    margin-left: 4%;
+    margin-bottom: 2%;
+
+}
+
+.menu {
+
+    -webkit-text-fill-color: rgb(255, 255, 255);
+    text-align: right;
+    margin-bottom: 4%;
+    margin-top: -7%;
+    margin-right: 4%;
+    word-spacing: 10%;
+
+}
+
+.house {
+
+    margin-right: 1%;
+    font-size: 120%;
+    color: rgb(253, 255, 128);
+    text-decoration: none;
+
+}
+
+.upcoming {
+
+    margin-left: 4%;
+    font-size: 340%;
+    margin-top: 7%;
+
+}
+
+.ublogs {
+
+    margin-left: 4%;
+    font-size: 190%;
+
+}
+
+.modified {
+
+    margin-left: 4%;
+    margin-right: 4%;
+
+}
+
+.info {
+
+    font-size: 80%;
+    margin-left: 4%;
+    margin-right: 4%;
+    margin-top: -1.5%;
+    color: rgb(194, 194, 194);
+
+}
+
+.read {
+
+    color: rgb(253, 255, 128);
+    font-size: 150%;
+    margin-left: 88%;
+    text-decoration: none;
+
+}
+
+.final {
+
+    margin-top: 7%;
+    margin-bottom: 3%;
+
+}
+
+.footer {
+
+    margin-bottom: 2%;
+
+}
+
+.ss {
+
+    margin-bottom: 9%;
+
+}
+
+.menu_two {
+
+    -webkit-text-fill-color: rgb(255, 255, 255);
+    text-align: center;
+    margin-bottom: 2%;
+
+}
+
+.house_two {
+
+    font-size: 120%;
+    color: rgb(253, 255, 128);
+    text-decoration: none;
+    margin-right: 1.5%;
+
+}
+
+.line_one {
+
+    margin-top: 12%;
+    margin-bottom: -7%;
+    margin-left: 4%;
+    color: rgb(194, 194, 194);
+
+}
+
+.line_two {
+
+    margin-left: 4%;
+    font-size: 500%;
+
+}
+
+.line_three {
+
+    margin-left: 4%;
+    margin-top: -6%;
+    color: rgb(194, 194, 194);
+
+}
+
+.line_four {
+
+    margin-left: 4%;
+    margin-top: 6%;
+    font-size: 250%;
+
+}
+
+.line_six {
+
+    margin-left: 4%;
+    margin-right: 4%;
+    margin-top: 4%;
+    text-align: justify;
+
+}
+
+.linker {
+
+    color: rgb(253, 255, 128);
+    text-decoration: none;
+
+}
+
+.line_seven {
+
+    margin-left: 4%;
+    margin-top: 3%;
+    font-size: 200%;
+
+}
+
+.line_nine {
+
+    margin-left: 3.4%;
+
+}
+
+td {
+    padding-left: 8px;
+    text-align: left;
+  }

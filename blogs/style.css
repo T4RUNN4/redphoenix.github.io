@@ -1,0 +1,95 @@
+.body {
+
+    background-color: #252525;
+    color: rgb(233, 233, 233);
+    font-family: Roboto;
+    font-feature-settings: bold;
+    font-variation-settings: normal
+
+}
+
+.footer {
+
+    text-align: center;
+
+}
+
+.heading {
+
+    font-size: 500%;
+    margin-left: 4%;
+    margin-bottom: -1%;
+    margin-top: 1%;
+
+}
+
+.tagline {
+
+    font-size: 75%;
+    margin-left: 4%;
+    margin-bottom: 2%;
+
+}
+
+.menu {
+
+    -webkit-text-fill-color: rgb(255, 255, 255);
+    text-align: right;
+    margin-bottom: 4%;
+    margin-top: -7%;
+    margin-right: 4%;
+    word-spacing: 10%;
+
+}
+
+.house {
+
+    margin-right: 1%;
+    font-size: 120%;
+    color: rgb(253, 255, 128);
+    text-decoration: none;
+
+}
+
+.menu_two {
+
+    -webkit-text-fill-color: rgb(255, 255, 255);
+    text-align: center;
+    margin-bottom: 2%;
+
+}
+
+.house_two {
+
+    font-size: 120%;
+    color: rgb(253, 255, 128);
+    text-decoration: none;
+    margin-right: 1.5%;
+
+}
+
+.arth {
+
+    margin-left: 4%;
+    margin-top: 7%;
+    font-size: 350%;
+
+}
+
+.artt {
+
+    margin-left: 4%;
+    margin-top: -3%;
+    font-size: 100%;
+
+}
+
+.mainart {
+
+    margin-left: 4%;
+    margin-right: 4%;
+    margin-top: 4%;
+    text-align: justify;
+    margin-bottom: 6%;
+
+}
