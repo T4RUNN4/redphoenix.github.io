@@ -1,6 +1,8 @@
 .body {
 
     background-color: #252525;
+    margin-left: 10%;
+    margin-right: 10%;
     color: rgb(255, 255, 255);
     font-family: Roboto;
     font-feature-settings: bold;
@@ -80,6 +82,7 @@
     margin-right: 4%;
     margin-top: -1.5%;
     color: rgb(194, 194, 194);
+    text-align: justify;
 
 }
 
@@ -87,7 +90,7 @@
 
     color: rgb(253, 255, 128);
     font-size: 150%;
-    margin-left: 88%;
+    margin-left: 85%;
     text-decoration: none;
 
 }
@@ -191,6 +194,290 @@
 }
 
 td {
+
     padding-left: 8px;
     text-align: left;
-  }
+
+}
+
+@media (max-width: 1024px) {
+
+    .read {
+
+        margin-left: 81%;
+
+    }
+
+}
+
+@media (max-width: 768px) {
+
+    .tagline {
+
+        margin-top: -1%;
+        margin-right: 50%;
+
+    }
+
+    .read {
+
+        font-size: 130%;
+        margin-left: 78%;
+
+    }
+
+    .final {
+
+        margin-top: 12%;
+
+    }
+
+    .line_one {
+
+        margin-top: 20%;
+        margin-bottom: -14%;
+
+    }
+
+    .line_three {
+
+        margin-top: -11%;
+        margin-bottom: 10%;
+
+    }
+
+    .line_six {
+
+        margin-top: 10%;
+        margin-bottom: 8%;
+
+    }
+
+}
+
+@media (max-width: 425px) {
+
+    .heading {
+
+        font-size: 380%;
+
+    }
+
+    .tagline {
+
+        font-size: 45%;
+        margin-top: -1.5%;
+        margin-right: 40%;
+
+    }
+
+    .menu {
+
+        font-size: 90%;
+        margin-left: 70%;
+        margin-top: -23%;
+        margin-bottom: 6%;
+
+    }
+
+    .upcoming {
+
+        margin-top: 20%;
+
+    }
+
+    .read {
+
+        font-size: 130%;
+        margin-left: 65%;
+
+    }
+
+    .final {
+
+        margin-top: 17%;
+        margin-bottom: 10%;
+
+    }
+
+    .line_one {
+
+        font-size: 90%;
+        margin-top: 27%;
+        margin-bottom: -20%;
+
+    }
+
+    .line_two {
+
+        font-size: 350%;
+
+    }
+
+    .line_three {
+
+        font-size: 90%;
+        margin-top: -13%;
+        margin-bottom: 20%;
+
+    }
+
+    .line_six {
+
+        margin-top: 20%;
+        margin-bottom: 10%;
+
+    }
+    
+}
+
+@media (max-width: 375px) {
+
+    .heading {
+
+        font-size: 350%;
+
+    }
+
+    .tagline {
+
+        font-size: 45%;
+        margin-top: -2%;
+        margin-right: 40%;
+
+    }
+
+    .menu {
+
+        font-size: 60%;
+        margin-left: 80%;
+        margin-top: -17%;
+        margin-bottom: 6%;
+
+    }
+
+    .upcoming {
+
+        margin-top: 28%;
+
+    }
+
+    .read {
+
+        font-size: 110%;
+        margin-left: 66%;
+
+    }
+
+    .final {
+
+        margin-top: 20%;
+        margin-bottom: 12%;
+
+    }
+
+    .line_one {
+
+        font-size: 60%;
+        margin-top: 30%;
+        margin-bottom: -20%;
+
+    }
+
+    .line_two {
+
+        font-size: 320%;
+
+    }
+
+    .line_three {
+
+        font-size: 60%;
+        margin-top: -16%;
+        margin-bottom: 20%;
+
+    }
+
+    .line_six {
+
+        margin-top: 10%;
+        margin-bottom: 17%;
+
+    }
+
+}
+
+@media (max-width: 320px) {
+
+    .heading {
+
+        font-size: 340%;
+
+    }
+
+    .tagline {
+
+        font-size: 45%;
+        margin-top: -1%;
+        margin-right: 30%;
+
+    }
+
+    .menu {
+
+        font-size: 45%;
+        margin-left: 70%;
+        margin-top: -19.5%;
+
+    }
+
+    .upcoming {
+
+        margin-top: 20%;
+
+    }
+
+    .read {
+
+        font-size: 100%;
+        margin-left: 64%;
+
+    }
+
+    .final {
+
+        margin-top: 20%;
+        margin-bottom: 14%;
+
+    }
+
+    .line_one {
+
+        font-size: 45%;
+        margin-top: 30%;
+        margin-bottom: -35%;
+
+    }
+
+    .line_two {
+
+        font-size: 275%;
+        margin-top: 38%;
+    }
+
+    .line_three {
+
+        font-size: 45%;
+        margin-top: -13%;
+        margin-bottom: 18%;
+
+    }
+
+    .line_six {
+
+        margin-top: 30%;
+        margin-bottom: 20%;
+
+    }
+
+}
