@@ -96,6 +96,12 @@
 
 }
 
+.read {
+
+    color: rgb(253, 255, 128);
+    text-decoration: none;
+
+}
 @media (max-width: 768px) {
 
     .tagline {
