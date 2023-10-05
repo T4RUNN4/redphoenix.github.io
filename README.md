@@ -29,7 +29,9 @@ YOUTUBE:- <a class="linker" href="https://youtube.com/@TarunnaSen" target="_blan
 v0.1 - Lauch of the Site <br>
 v0.2 - Stability of the site increased <br>
 v0.3 - made the site Responsive for nearly all sorts of device <br>
-v0.4 - coming soon...........
+v0.4 - Readability Increased
+v0.5 - New Blogs Added
+v0.6 - New Blogs Added
 <br>
 <br>
 <br>
