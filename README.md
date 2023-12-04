@@ -9,7 +9,7 @@ Err0r is a minimal but informative blogging site written in Bengali and this sit
 <br>
 <h2>About Author and Developer</h2>
 <br>
-Writer of all blogs available in the site as well as the Developer and Owner of this site <b>Tarunna Sen.</b> <br> <br> <br>
+Writer of all blogs available on the site as well as the Developer and Owner of this site <b>Tarunna Sen.</b> <br> <br> <br>
 
 🔗<b>Connect with me:</b> <br> <br>
 
@@ -28,10 +28,10 @@ YOUTUBE:- <a class="linker" href="https://youtube.com/@TarunnaSen" target="_blan
 <br>
 v0.1 - Lauch of the Site <br>
 v0.2 - Stability of the site increased <br>
-v0.3 - made the site Responsive for nearly all sorts of device <br>
-v0.4 - Readability Increased
-v0.5 - New Blogs Added
-v0.6 - New Blogs Added
+v0.3 - made the site Responsive for nearly all sorts of devices <br>
+v0.4 - Readability Increased <br>
+v0.5 - New Blogs Added <br>
+v0.6 - New Blogs Added <br>
 <br>
 <br>
 <br>
