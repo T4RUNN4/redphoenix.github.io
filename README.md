@@ -1,5 +1,5 @@
 <h1> Err0r </h1>
-<h6>url: <a target="_blank" href="https://t4runn4.github.io/err0r.github.io/author.html"> https://t4runn4.github.io/err0r.github.io/author.html</h6>
+<h6>url: <a target="_blank" href="https://t4runn4.github.io/redphoenix.github.io/">https://t4runn4.github.io/redphoenix.github.io/</h6>
 
 <br>
 Err0r is a minimal but informative blogging site written in Bengali and this site is entirely free. This site's theme and overall look are exceptionally inspired by "cs.fyi". If you want, you can pay a visit to their Site. Also, the source code of this is uploaded on GitHub. Get the complete source code for free from Here. Blogs that are uploaded here are completely free to read. If you want to publish this blog on your site, make sure to give Decent Credit to get rid of Copyright issues. If you want to support me, you can Buy Me Candy from Here.
