@@ -14,13 +14,7 @@ Writer of all blogs available on the site as well as the Developer and Owner of 
 🔗<b>Connect with me:</b> <br> <br>
 
 FACEBOOK: <a class="linker" href="http://web.facebook.com/tarunna.002" target="_blank">তা রু ণ্য</a> <br>
-INSTAGRAM:- <a class="linker" href="https://www.instagram.com/tarunnasen/" target="_blank">@tarunnasen</a> <br>
-TWITTER:- <a class="linker" href="https://twitter.com/tarunnasen" target="_blank">@tarunnasen</a> <br>
 LINKEDIN:- <a class="linker" href="www.linkedin.com/in/tarunna-sen" target="_blank">tarunna-sen</a> <br>
-GITHUB:- <a class="linker" href="https://github.com/T4RUNN4" target="_blank">@T4RUNN4</a> <br>
-DISCORD:- <a class="linker" href="https://discordapp.com/users/1116973913168171039" target="_blank">Tarunna</a> <br>
-TELEGRAM:- <a class="linker" href="https://t.me/tarunnasen" target="_blank">Tarunna</a> <br>
-YOUTUBE:- <a class="linker" href="https://youtube.com/@TarunnaSen" target="_blank">@TarunnaSen</a> <br>
 <br>
 <br>
 <br>
