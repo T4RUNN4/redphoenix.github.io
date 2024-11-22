@@ -2,7 +2,7 @@
 <h6>url: <a target="_blank" href="https://t4runn4.github.io/redphoenix.github.io/">https://t4runn4.github.io/redphoenix.github.io/</h6>
 
 <br>
-Err0r is a minimal but informative blogging site written in Bengali and this site is entirely free. This site's theme and overall look are exceptionally inspired by <a href="http://cs.fyi" target="_blank">cs.fyi</a>. If you want to publish this blog on your site, give Decent Credit to eliminate Copyright issues.
+Err0r is a free & informative blogging site written in Bengali. This site's theme and overall look are exceptionally inspired by <a href="http://cs.fyi" target="_blank">cs.fyi</a>. If you want to publish this blog on your site, give Decent Credit to eliminate Copyright issues.
 <br>
 <br>
 <br>
