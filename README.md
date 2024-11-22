@@ -9,9 +9,9 @@ Err0r is a free & informative blogging site written in Bengali. This site's them
 <br>
 <h2>About Author and Developer</h2>
 <br>
-Writer of all blogs available on the site as well as the Developer and Owner of this site <b>Tarunna Sen.</b> <br> <br>
+Writer & Developer of this site is <b>Tarunna Sen.</b> <br> <br>
 
-FACEBOOK: <a class="linker" href="http://web.facebook.com/tarunna.002" target="_blank">তারুণ্য সেন/a> <br>
+FACEBOOK: <a class="linker" href="http://web.facebook.com/tarunna.002" target="_blank">তারুণ্য সেন</a> <br>
 LINKEDIN:- <a class="linker" href="www.linkedin.com/in/tarunna-sen" target="_blank">tarunna-sen</a> <br>
 <br>
 <br>
